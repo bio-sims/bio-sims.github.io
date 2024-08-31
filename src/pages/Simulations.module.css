@@ -1,0 +1,29 @@
+.pageContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  color: var(--cr-text-primary);
+  transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+  background-color: var(--cr-bg-secondary);
+}
+
+.pageContent h1 {
+  font-size: 3.0em;
+  margin: 2rem 0;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 90rem;
+  padding: 0 1rem;
+  margin-bottom: 3rem;
+}
+
+.simulationCards {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
