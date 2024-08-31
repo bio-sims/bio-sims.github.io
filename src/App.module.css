@@ -133,6 +133,7 @@ section.content {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/img/su_bg.webp");
   background-repeat: no-repeat;
   background-size: 1920px 1080px;
+  overflow-x: hidden;
 }
 
 button.menuButton {
