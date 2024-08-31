@@ -83,15 +83,7 @@
     border-radius: 0;
   }
 
-  .aboutContent h3 {
-    font-size: 2em;
-  }
-
-  .aboutContent h4 {
-    font-size: 1.25em;
-  }
-
-  .aboutContent p, .aboutContent ul {
-    font-size: 1em;
+  .pageContent {
+    font-size: 0.8em;
   }
 }
