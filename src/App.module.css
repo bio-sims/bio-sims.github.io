@@ -134,6 +134,7 @@ section.content {
   background-repeat: no-repeat;
   background-size: 1920px 1080px;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 button.menuButton {

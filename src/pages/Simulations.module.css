@@ -6,6 +6,8 @@
   color: var(--cr-text-primary);
   transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
   background-color: var(--cr-bg-secondary);
+  overflow-x: hidden;
+  overflow-y: visible;
 }
 
 .pageContent h1 {
@@ -26,7 +28,6 @@
   display: flex;
   flex-direction: column;
   gap: 2rem;
-  overflow-x: hidden;
 }
 
 @media (width < 800px) {
