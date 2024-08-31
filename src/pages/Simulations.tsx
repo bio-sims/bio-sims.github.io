@@ -36,8 +36,8 @@ export default function Simulations() {
       name: "Bacterial Growth",
       description: "Simulates the four phases of bacterial growth: lag, exponential, stationary, and death. This simulation is designed to help students understand the factors like temperature and nutrient availability that can affect bacterial growth.",
       image: "/img/growth_demo.webp",
-      url: "https://bio-sims.github.io/growth-curve-project/",
-      sourceURL: "https://github.com/bio-sims/growth-curve-project",
+      url: "https://bio-sims.github.io/bacterial-growth/",
+      sourceURL: "https://github.com/bio-sims/bacterial-growth/",
     },
     {
       name: "FaSe",
