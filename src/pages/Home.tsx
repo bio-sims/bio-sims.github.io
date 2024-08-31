@@ -16,7 +16,7 @@ export default function Home() {
             <p>Simulations with supplemental materials to help students learn and understand complex biological concepts.</p>
             <div className={styles.heroButtons} data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000" data-aos-once="true">
               <button onClick={handleSimulationsClick} className="primary">
-                Our Simlations
+                Our Simulations
               </button>
               <button onClick={handleLearnMoreClick} className="secondary">
                 Learn More

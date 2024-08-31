@@ -20,7 +20,7 @@ export default function Simulations() {
     },
     {
       name: "LacOp",
-      description: "In E. coli, the lactose operon is responsible for the metabolism of lactose. This simulation allows students to explore the effects of different mutations on the operon in relation to the concentrations of different sugars inside and outside the cell.", 
+      description: "In E. coli, the lactose operon is responsible for the metabolism of lactose. This simulation allows students to explore the effects of different mutations on the operon in relation to the concentrations of different sugars inside and outside the cell.",
       image: "/img/lacop_demo.webp",
       url: "https://bio-sims.github.io/lacop/",
       sourceURL: "https://github.com/bio-sims/lacop",
